@@ -1,7 +1,11 @@
 # Welcome, I'm Christian Escalante 👋
 
 ### Technical Lead & Software Architect
-[![GitHub Streak](https://streak-stats.demolab.com?user=chescalante&theme=dark&hide_border=true&short_numbers=true&mode=weekly&background=000000)](https://git.io/streak-stats)
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=chescalante&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="My Github Stats" height="200" style="vertical-align: top;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chescalante&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="My Top Languages" height="200" style="vertical-align: top;"/>
+</div>
 
 ## About Me
 
