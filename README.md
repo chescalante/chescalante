@@ -25,8 +25,8 @@ I’m a results-driven Software Architect & Technical Lead based in Argentina �
 - 🧠 **Technical Lead @ WakeUp Labs (2022–Present)**  
   Led the integration of the Aave protocol and real-world asset tokenization (e.g., soccer players, real estate). Architected smart contracts in Solidity.
 
-- 🔐 **Software Architect @ IOV Labs (2021–2022)**  
-  Built a React-Native wallet and a custom blockchain-auth SDK. Directed architectural decisions across multiple teams.
+- 🔐 **Software Architect @ Rootstock (2021–2022)**  
+  Built a React-Native wallet and a custom blockchain-auth SDK. Directed architectural decisions across multiple projects.
 
 - 🚗 **Full-Stack Developer @ MG-Group (2017–2021)**  
   Created a car marketplace (Next.js, GraphQL, MySQL) and tools for agencies. Focused on mentorship and dev practices.
