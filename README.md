@@ -58,10 +58,8 @@ I’m a results-driven Software Architect & Technical Lead based in Argentina �
 - 🔍 [**Drinx**](https://github.com/maquina-iterar/barapp-next) – Bar finder app using Next.js, MongoDB, AWS Lambda  
 - 🎫 [**IEEETalks**](https://github.com/maquina-iterar/barapp-next) – Conference registration system for IEEE events
 
-## Links:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@ChristianEscalante-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://ar.linkedin.com/in/christian-escalante)  
-
 ## Contact:
 
-[![Email](https://img.shields.io/badge/chescalante.ar@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:chescalante.ar@gmail.com)
+[in/christian-escalante](https://ar.linkedin.com/in/christian-escalante)  |  [chescalante.ar@gmail.com](mailto:chescalante.ar@gmail.com)
+
+-----
