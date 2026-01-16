@@ -2,10 +2,10 @@
 
 ### Technical Lead & Software Architect
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=chescalante&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="My Github Stats" height="200" style="vertical-align: top;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chescalante&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="My Top Languages" height="200" style="vertical-align: top;"/>
-</div>
+</div> -->
 
 ## About Me
 
