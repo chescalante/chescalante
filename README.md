@@ -60,6 +60,5 @@ Iâ€™m a results-driven Software Architect & Technical Lead based in Argentina ðŸ
 
 ## Contact:
 
-[in/christian-escalante](https://ar.linkedin.com/in/christian-escalante)  |  [chescalante.ar@gmail.com](mailto:chescalante.ar@gmail.com)
-
------
+- [in/christian-escalante](https://ar.linkedin.com/in/christian-escalante)
+- [chescalante.ar@gmail.com](mailto:chescalante.ar@gmail.com)
